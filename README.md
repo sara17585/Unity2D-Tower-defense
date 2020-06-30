@@ -1,6 +1,7 @@
 # Glitch Garden
 
-Glitch Garden is a 2D Tower Defense game similar to *Plants Vs Zombies*
+Glitch Garden is a 2D Tower Defense game similar to *Plants Vs Zombies*.
+You can find the game under FinalGame Folder.
 
 ## Game Screen shots
 ### Main menu
