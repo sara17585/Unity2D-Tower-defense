@@ -111,6 +111,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level Controller
       objectReference: {fileID: 0}
+    - target: {fileID: 9075266138600315567, guid: a72c81387a05b1c45874a1199b034f9f,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e1019d882baeceb4b8c2f56eae28622e, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a72c81387a05b1c45874a1199b034f9f, type: 3}
 --- !u!4 &5292364277844970256 stripped

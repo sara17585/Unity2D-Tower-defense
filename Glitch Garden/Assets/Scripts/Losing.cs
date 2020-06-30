@@ -24,6 +24,7 @@ public class Losing : MonoBehaviour
         else
         {
             //StartCoroutine(StopGame());
+            GetComponent<AudioSource>().Play();
             FindObjectOfType<LevelController>().HandleLoseCondition();
             //  FindObjectOfType<Level>().LoadYouLose();
         }
